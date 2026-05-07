@@ -12,7 +12,7 @@
 
 ### **1. Project Overview**
 
-This project focuses on building a predictive framework to identify individuals at high risk of heart disease using the **2020 CDC Behavioral Risk Factor Surveillance System (BRFSS)** dataset. With cardiovascular diseases being a leading cause of mortality globally, the goal was to leverage machine learning to move beyond traditional clinical observation and toward data-driven early detection.
+This project focuses on building a predictive framework to identify individuals at high risk of heart disease using the **2020 CDC Behavioral Risk Factor Surveillance System (BRFSS)** dataset from Kaggle. With cardiovascular diseases being a leading cause of mortality globally, the goal was to leverage machine learning to move beyond traditional clinical observation and toward data-driven early detection.
 
 Using a dataset of over **300,000 survey respondents**, I explored the relationship between 18 health indicators—ranging from lifestyle choices like smoking and alcohol consumption to clinical markers like BMI and pre-existing conditions like diabetes. 
 
