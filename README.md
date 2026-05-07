@@ -1,20 +1,14 @@
 # heart-disease-prediction
 ## Table of Contents
-[1. Project Overview](1-project-overview)
+1. [Project Overview](#1-project-overview)
+2. [The Dataset](#2-the-dataset)
+3. [The Analytics Stack](#3-the-analytics-stack)
+4. [Data Cleaning & Feature Engineering](#4-data-cleaning--feature-engineering)
+5. [Exploratory Data Analysis (EDA)](#5-exploratory-data-analysis-eda)
+6. [Modeling & Prediction Strategy](#6-modeling--prediction-strategy)
+7. [Key Outcomes & Model Performance](#7-key-outcomes--model-performance)
+8. [Challenges & Limitations](#8-challenges--limitations)
 
-[2. The Dataset](2-the-dataset)
-
-[3. The Analytics Stack](3-the-analytics-stack)
-
-[4. Data Cleaning & Feature Engineering](4-data-cleaning-&-feature-engineering)
-
-[5. Exploratory Data Analysis (EDA)](5-exploratory-data-analysis-(EDA))
-
-[6. Modeling & Prediction Strategy](6-modeling-&-prediction-strategy)
-
-[7. Key Outcomes & Model Performance](7-key-outcomes-&-model-performance)
-
-[8. Challenges & Limitations](8-challenges-&-limitations)
 
 ### **1. Project Overview**
 
